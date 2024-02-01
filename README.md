@@ -1,6 +1,8 @@
 <h2>Ola! Seja Bem Vindo(a)!</h2><br>
-<h3>Sou Fillipe Pistori</h3><br>
-<h4>Consultor de negocios, estudante & entusiasta de tecnologia;<br>
-💼 Atualmente eu trabalho como Consultor de Implantação de ERP's na Questor Sistema;<br>
-⭐ Focado no estudo de Javascrips e outros para me tornar um Desenvolvedor Fullstack.<br>
-</h4>
+<h4> <Sou Fillipe Pistori</h4><br>
+<h5>Consultor de negocios, estudante & entusiasta de tecnologia;<br>
+  <ul>
+<li>💼 Atualmente eu trabalho como Consultor de Implantação de ERP's na Questor Sistema;</li><br>
+<li>⭐ Focado no estudo de Javascrips e outros para me tornar um Desenvolvedor Fullstack.</li><br>
+  </ul>
+</h5>
