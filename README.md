@@ -1,4 +1,4 @@
-Ola! Seja bem vindo(a)!
+Ola! Seja bem vindo(a)!<br>
 Sou Fillipe Pistori
 Consultor de negocios, estudante & entusiasta de tecnologia;
 💼 Atualmente eu trabalho como Consultor de Implantação de ERP's na Questor Sistema;
