@@ -9,10 +9,10 @@
 - ⭐ Focado no estudo de Javascrips e outros para me tornar um Desenvolvedor Fullstack.
 
 <hr>
-<h3 align="center">Linguagens que estou me aprentendo e pretendo dominar cada vez mais:</h3>
+<h3 align="center">Linguagens que estou me aprentendo e pretendo dominar cada vez mais:
 
 <img align="middle" width="50px" src="https://github.com/FillipePistori/FillipePistori/assets/158501870/4b6516c0-9ae9-4645-bc56-1fa016e031c8">
-
+</h3>
 
 
 
