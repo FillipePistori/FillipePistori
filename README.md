@@ -1,10 +1,12 @@
 
+<link rel="stylesheet" type="text/css" href="css/estilo.css">
+
 <h2>Ola! Seja Bem Vindo(a)!
 <h3>Sou Fillipe Pistori!</h3>
 </h2>
 
 
-<div>
+<div  id="direito">
 <p>Consultor de negocios, estudante & entusiasta de tecnologia;<br>
    <ul>
     <li>💼 Atualmente eu trabalho como Consultor de Implantação de ERP's na Questor Sistemas;</li><br>
@@ -24,7 +26,7 @@ Linguagens que estou me aprentendo e pretendo dominar cada vez mais:
 
 </p>
 </div>
-<div display: block; float: rigth>
+<div id="direito">
 <img src="./giphy.gif"></img>
 </div>
 <hr>
