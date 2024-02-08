@@ -8,8 +8,8 @@
 - 💼 Atualmente eu trabalho como Consultor de Implantação de ERP's na Questor Sistemas.
 - ⭐ Focado no estudo de Javascrips e outros para me tornar um Desenvolvedor Fullstack.
 
-<div border="2px">
-### <p align="center"> Linguagens que estou me aprentendo e pretendo dominar cada vez mais:
+
+### <p align="center" border="10px"> Linguagens que estou me aprentendo e pretendo dominar cada vez mais:
 
 <img ali="middle" width="28px" src="https://github.com/FillipePistori/FillipePistori/assets/158501870/4b6516c0-9ae9-4645-bc56-1fa016e031c8">
 <img align="middle" width="28px" src="https://github.com/FillipePistori/FillipePistori/assets/158501870/dc26d530-2e24-4093-8b74-2f2187d99f2e">
@@ -17,5 +17,4 @@
 <img align="middle" width="40px" src="https://github.com/FillipePistori/FillipePistori/assets/158501870/b16902fb-376e-477f-9252-b0a0c6f5da53">
 
 <p/>
-</div>
 <hr>
