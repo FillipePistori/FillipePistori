@@ -1,22 +1,14 @@
-
-<link rel="stylesheet" type="text/css" href="css/estilo.css">
-
-<h2>Ola! Seja Bem Vindo(a)!
-<h3>Sou Fillipe Pistori!</h3>
-</h2>
+# Ola! Seja Bem Vindo(a)!
+## Sou Fillipe Pistori!
 
 
-<div  id="direito">
-<p>Consultor de negocios, estudante & entusiasta de tecnologia;<br>
-   <ul>
-    <li>💼 Atualmente eu trabalho como Consultor de Implantação de ERP's na Questor Sistemas;</li><br>
-    <li>⭐ Focado no estudo de Javascrips e outros para me tornar um Desenvolvedor Fullstack.</li><br>
-  </ul>
-</p>
+### Consultor de negocios, estudante & entusiasta de tecnologia;<br>
 
-<p>
+- 💼 Atualmente eu trabalho como Consultor de Implantação de ERP's na Questor Sistemas;</li><br>
+- ⭐ Focado no estudo de Javascrips e outros para me tornar um Desenvolvedor Fullstack.</li><br>
+
   
-Linguagens que estou me aprentendo e pretendo dominar cada vez mais:
+### Linguagens que estou me aprentendo e pretendo dominar cada vez mais:
 
 ![html](https://github.com/FillipePistori/FillipePistori/assets/158501870/4cda2159-f020-4ec0-937c-0665c6129738)
 ![css](https://github.com/FillipePistori/FillipePistori/assets/158501870/24885b2b-bbf4-45b4-9a0f-302619d935a9)
@@ -28,8 +20,8 @@ Linguagens que estou me aprentendo e pretendo dominar cada vez mais:
 
 </div>
 
-<div id="direito">
-  <img src="./giphy.gif"></img>
+<div>
+  <img align="right" width="400" height="400"src="./giphy.gif"></img>
 </div>
 
 <hr>
