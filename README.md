@@ -14,7 +14,7 @@
 <img align="center" width="28px" src="https://github.com/FillipePistori/FillipePistori/assets/158501870/4cda2159-f020-4ec0-937c-0665c6129738">
 <img align="center" width="28px" src="https://github.com/FillipePistori/FillipePistori/assets/158501870/24885b2b-bbf4-45b4-9a0f-302619d935a9">
 <img align="center" width="28px" src="https://github.com/FillipePistori/FillipePistori/assets/158501870/0cd57fc9-ec2c-4a98-9db4-ad286f06e09c">
-<img align="center" width="28px" src="https://github.com/FillipePistori/FillipePistori/assets/158501870/9c46e94b-d427-4ff7-9a41-082ea8c8b02b">
+<img align="center" width="40px" src="https://github.com/FillipePistori/FillipePistori/assets/158501870/9c46e94b-d427-4ff7-9a41-082ea8c8b02b">
 
 <p/>
 <hr>
