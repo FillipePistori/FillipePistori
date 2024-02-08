@@ -18,3 +18,10 @@
 
 <p/>
 <hr>
+
+
+![sql](https://github.com/FillipePistori/FillipePistori/assets/158501870/b16902fb-376e-477f-9252-b0a0c6f5da53)
+![javascript](https://github.com/FillipePistori/FillipePistori/assets/158501870/efaf0eb8-a501-4e6c-95fe-cf867b6489d3)
+![html](https://github.com/FillipePistori/FillipePistori/assets/158501870/4b6516c0-9ae9-4645-bc56-1fa016e031c8)
+![css](https://github.com/FillipePistori/FillipePistori/assets/158501870/dc26d530-2e24-4093-8b74-2f2187d99f2e)
+
