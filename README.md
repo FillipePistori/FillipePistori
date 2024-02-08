@@ -1,14 +1,14 @@
-<img align="right" width="400" height="400" src="https://github.com/FillipePistori/FillipePistori/assets/158501870/3bf98d9b-4622-4efb-adf3-b032c46efca8">
+<img align="right" width="400px" src="https://github.com/FillipePistori/FillipePistori/assets/158501870/3bf98d9b-4622-4efb-adf3-b032c46efca8">
 
 
 # Ola! Seja Bem Vindo(a)!
 ## Sou Fillipe Pistori!
 
 
-### Consultor de negocios, estudante & entusiasta de tecnologia;<br>
+### Consultor de negócios, estudante & entusiasta de tecnologia
 
-- 💼 Atualmente eu trabalho como Consultor de Implantação de ERP's na Questor Sistemas;</li><br>
-- ⭐ Focado no estudo de Javascrips e outros para me tornar um Desenvolvedor Fullstack.</li><br>
+- 💼 Atualmente eu trabalho como Consultor de Implantação de ERP's na Questor Sistemas.
+- ⭐ Focado no estudo de Javascrips e outros para me tornar um Desenvolvedor Fullstack.
 
   
 ### Linguagens que estou me aprentendo e pretendo dominar cada vez mais:
