@@ -4,7 +4,7 @@
 </h2>
 
 
-
+<div>
 <p>Consultor de negocios, estudante & entusiasta de tecnologia;<br>
    <ul>
     <li>💼 Atualmente eu trabalho como Consultor de Implantação de ERP's na Questor Sistemas;</li><br>
@@ -23,7 +23,8 @@ Linguagens que estou me aprentendo e pretendo dominar cada vez mais:
 
 
 </p>
-
+</div>
+<div display: block; float: rigth>
 <img src="./giphy.gif"></img>
-
+</div>
 <hr>
