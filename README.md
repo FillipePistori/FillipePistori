@@ -1,4 +1,4 @@
-![giphy](https://github.com/FillipePistori/FillipePistori/assets/158501870/3bf98d9b-4622-4efb-adf3-b032c46efca8)
+<img align="right" width="400" height="400" src="https://github.com/FillipePistori/FillipePistori/assets/158501870/3bf98d9b-4622-4efb-adf3-b032c46efca8">
 
 
 # Ola! Seja Bem Vindo(a)!
@@ -18,13 +18,5 @@
 ![javascript](https://github.com/FillipePistori/FillipePistori/assets/158501870/0cd57fc9-ec2c-4a98-9db4-ad286f06e09c)
 ![sql](https://github.com/FillipePistori/FillipePistori/assets/158501870/9c46e94b-d427-4ff7-9a41-082ea8c8b02b)
 
-
-</p>
-
-</div>
-
-<div>
-  <img align="right" width="400" height="400"src="./giphy.gif"></img>
-</div>
 
 <hr>
