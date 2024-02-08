@@ -3,12 +3,15 @@
 <h3>Sou Fillipe Pistori!</h3>
 </h2>
 
+<img src="./giphy.gif"></img>
+
 <p>Consultor de negocios, estudante & entusiasta de tecnologia;<br>
    <ul>
     <li>💼 Atualmente eu trabalho como Consultor de Implantação de ERP's na Questor Sistemas;</li><br>
     <li>⭐ Focado no estudo de Javascrips e outros para me tornar um Desenvolvedor Fullstack.</li><br>
   </ul>
 </p>
+
 <p>
   
 Linguagens que estou me aprentendo e pretendo dominar cada vez mais:
