@@ -18,6 +18,4 @@
 <img align="middle" width="50px" src="https://github.com/FillipePistori/FillipePistori/assets/158501870/c9e33930-853b-4bfc-91a1-f44e843e7559">
 </h3>
 
-<p/>
-
 <hr>
