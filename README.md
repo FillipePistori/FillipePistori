@@ -1,3 +1,6 @@
+![giphy](https://github.com/FillipePistori/FillipePistori/assets/158501870/3bf98d9b-4622-4efb-adf3-b032c46efca8)
+
+
 # Ola! Seja Bem Vindo(a)!
 ## Sou Fillipe Pistori!
 
