@@ -3,7 +3,7 @@
 <h3>Sou Fillipe Pistori!</h3>
 </h2>
 
-<img src="./giphy.gif"></img>
+
 
 <p>Consultor de negocios, estudante & entusiasta de tecnologia;<br>
    <ul>
@@ -23,5 +23,7 @@ Linguagens que estou me aprentendo e pretendo dominar cada vez mais:
 
 
 </p>
+
+<img src="./giphy.gif"></img>
 
 <hr>
