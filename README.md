@@ -25,8 +25,11 @@ Linguagens que estou me aprentendo e pretendo dominar cada vez mais:
 
 
 </p>
+
 </div>
+
 <div id="direito">
-<img src="./giphy.gif"></img>
+  <img src="./giphy.gif"></img>
 </div>
+
 <hr>
